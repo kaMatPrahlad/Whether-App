@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "E:/CwH.html"
+		},
+		{
+			"path": "../../Downloads/c++ course"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CwH.html",
+		"liveServer.settings.port": 5501
+	}
+}
